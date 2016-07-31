@@ -2,7 +2,7 @@
 "room": "Welcome to HaBloop!",
 "author": "Warrior",
 "icon": null,
-"css": "https://rawgit.com/warrior1990/plug.dj/master/style.css",
+"css": "https://rawgit.com/warrior1990/habloop/master/style.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
