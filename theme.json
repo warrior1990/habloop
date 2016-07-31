@@ -1,0 +1,44 @@
+{
+"room": "Welcome to HaBloop!",
+"author": "Warrior",
+"icon": null,
+"css": "https://rawgit.com/warrior1990/plug.dj/master/style.css",
+"rules":{
+"allowAutorespond": true,
+"allowAutowoot": true,
+"allowAutojoin": true,
+"allowAutograb": true,
+"allowSmartVote": true,
+"allowEmotes": true,
+"allowShowingMehs": true,
+"forceSmartVote": false
+},
+"ccc":{
+"admin": null,
+"ambassador": null,
+"host": "#0095FF",
+"cohost": "#38ACFF",
+"manager": "#7DC9FF",
+"bouncer": "#A8DBFF",
+"rdj": "#B3DFFF",
+"subscriber": "#FFA973",
+"silversubscriber": "#CCCCCC",
+"friend": null,
+"user": "#9299A8"
+},
+"images":{
+"background": "https://cdn.radiant.dj/rcs/bg/plugalphaLounge.jpg",
+"playback": null,
+"admin": null,
+"ambassador": null,
+"host": null,
+"cohost": null,
+"manager": null,
+"bouncer": null,
+"rdj": null,
+"subscriber": null,
+"silversubscriber": "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+},
+"emotes": {
+}
+}
